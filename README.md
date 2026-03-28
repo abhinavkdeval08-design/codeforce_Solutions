@@ -28,7 +28,7 @@ Welcome to my CP vault! This repository contains my journey through Codeforces p
 | 8 | Soldier and Bananas | 546A | 800 | Math / Loop | [View](./546A.cpp) |
 | 9 | Elephant | 617A | 800 | Math / Greedy | [View](./617A.cpp) |
 | 10 | Wrong Subtraction | 977A | 800 | Implementation | [View](./977A.cpp) |
-| 11 | Word Capitalization | 281A | 800 | Implementation | [View](./281A.cpp) |
+| 11 | Word Capitalization | 281A | 800 | Implementation | [View](https://github.com/abhinavkdeval08-design/codeforce_Solutions/blob/main/281/A%20-%20Word%20Capitalization/solution.cpp) |
 
 
 ---
