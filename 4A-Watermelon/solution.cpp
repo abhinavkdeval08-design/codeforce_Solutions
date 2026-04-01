@@ -2,11 +2,11 @@
 using namespace std;
 
 int main(){
-    int w;
-    cin >> w;
+    int wa;
+    cin >> wa;
     
     
-    if(w > 2 && w % 2 == 0){
+    if(wa > 2 && wa % 2 == 0){
         cout << "YES" << endl; 
     }
     else{
