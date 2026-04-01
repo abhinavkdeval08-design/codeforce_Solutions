@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    int k,n,w; (//I didn't use long long due to space compl.)
+    int k,n,w; (//I didn't use long long due to space complexity)
     cin >> k >> n >> w;
     int x = (k*w*(w+1))/2;
     int cost = x-n;
