@@ -9,4 +9,5 @@ int main(){
       if(s[i] == s[i+1]){   
           count++;    }   
   }   
-  cout << count;    return 0;}
+    cout << count;    
+    return 0;}
