@@ -7,4 +7,6 @@ int main(){
   cin >> j >>  s;    
   for(int i=0;i<j; i++){    
       if(s[i] == s[i+1]){   
-        count++;    }     }    cout << count;    return 0;}
+          count++;    }   
+  }   
+  cout << count;    return 0;}
