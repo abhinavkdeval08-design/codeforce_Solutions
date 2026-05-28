@@ -2,14 +2,14 @@
 
 <div align="center">
 
+![LeetCode](https://img.shields.io/badge/LeetCode-80+-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-418-blue?style=for-the-badge&logo=codeforces&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B20-red?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Institute](https://img.shields.io/badge/IIIT-Kalyani-darkgreen?style=for-the-badge)
 
 *Solving one problem at a time, building algorithms that scale.*
 
-[Profile](https://codeforces.com/profile/abhinavkdeval29) • [LinkedIn](https://www.linkedin.com/in/abhinav-deval-549b6438b/) • [Explore Solutions](#-repository-structure)
+[LeetCode](https://leetcode.com/u/abhinav_deval07/) • [Codeforces](https://codeforces.com/profile/abhinavkdeval29) • [LinkedIn](https://www.linkedin.com/in/abhinav-deval-549b6438b/)
 
 </div>
 
@@ -17,9 +17,23 @@
 
 ## 📖 Overview
 
-Welcome to my **DSA Solutions Vault**! This repository is a curated collection of my solutions to various algorithmic challenges from **Codeforces** and **LeetCode**. My focus is on writing clean, efficient, and well-documented code while mastering data structures and algorithms.
+Welcome to my **DSA Solutions Vault**! This repository is a curated collection of my solutions to various algorithmic challenges. While I'm active on Codeforces, **LeetCode** is where I've spent significant time mastering data structures and problem-solving patterns.
 
 > *"Consistency is the only shortcut to success."* 🔁
+
+---
+
+## 📊 Platform Analytics
+
+### 💻 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/abhinav_deval07?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" />
+</div>
+
+### 📈 Progress Summary
+- **LeetCode:** [abhinav_deval07](https://leetcode.com/u/abhinav_deval07/) (80+ Problems Solved)
+- **Codeforces:** [abhinavkdeval29](https://codeforces.com/profile/abhinavkdeval29) (Current Rating: 418)
+- **Goal:** Solving 100+ problems from the A-Z sheet and reaching **Pupil** rank.
 
 ---
 
@@ -39,7 +53,7 @@ The vault is organized by platform for easy navigation:
 ## 📊 Analytics & Progress
 
 ### 🎯 Current Goals
-- [X] Reach **Pupil** on Codeforces (Current: 418)
+- [ ] Reach **Pupil** on Codeforces (Current: 418)
 - [ ] Solve 100+ problems from the A-Z sheet
 - [ ] Master Dynamic Programming and Graph Algorithms
 
@@ -65,10 +79,13 @@ The vault is organized by platform for easy navigation:
 
 | # | Problem | Category | Complexity | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 42 | **Trapping Rain Water** | Hard | O(N) Time | [View](./LeetCode/42-TrappingRainWater/) |
-| 128 | **Longest Consecutive Seq** | Medium | O(N) Time | [View](./LeetCode/128-LongestConsecutiveSequence/) |
-| 3 | **Longest Substring...** | Medium | Sliding Window | [View](./LeetCode/3-LongestSubstringWithoutRepeatingCharacters/) |
-| 15 | **3Sum** | Medium | Two Pointers | [View](./LeetCode/15-3sum/) |
+| 42 | **Trapping Rain Water** | 🔴 Hard | O(N) Time | [View](./LeetCode/42-TrappingRainWater/) |
+| 239 | **Sliding Window Max** | 🔴 Hard | O(N) Time | [View](./LeetCode/239-SlidingWindowMaximum/) |
+| 128 | **Longest Consecutive Seq** | 🟡 Medium | O(N) Time | [View](./LeetCode/128-LongestConsecutiveSequence/) |
+| 3 | **Longest Substring...** | 🟡 Medium | Sliding Window | [View](./LeetCode/3-LongestSubstringWithoutRepeatingCharacters/) |
+| 15 | **3Sum** | 🟡 Medium | Two Pointers | [View](./LeetCode/15-3sum/) |
+| 49 | **Group Anagrams** | 🟡 Medium | Hashing | [View](./LeetCode/49-GroupAnagrams/) |
+| 56 | **Merge Intervals** | 🟡 Medium | Sorting | [View](./LeetCode/56-MergeIntervals/) |
 
 ---
 
