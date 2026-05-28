@@ -39,7 +39,7 @@ The vault is organized by platform for easy navigation:
 ## 📊 Analytics & Progress
 
 ### 🎯 Current Goals
-- [ ] Reach **Pupil** on Codeforces (Current: 418)
+- [X] Reach **Pupil** on Codeforces (Current: 418)
 - [ ] Solve 100+ problems from the A-Z sheet
 - [ ] Master Dynamic Programming and Graph Algorithms
 
